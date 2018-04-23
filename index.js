@@ -12,6 +12,5 @@ function destructivelyRemoveFirstKitten(array, element) {
   return (kittens.shift('Milo'))
 }
 function appendKitten(name) {
-  appendKitten('Broom')
-  return array, (name)
+  return (kittens.concat('Broom'))
 }
